@@ -1,0 +1,14 @@
+C:\cshap\week-2\ex1\bin\Debug\net7.0\ex1.exe
+C:\cshap\week-2\ex1\bin\Debug\net7.0\ex1.deps.json
+C:\cshap\week-2\ex1\bin\Debug\net7.0\ex1.runtimeconfig.json
+C:\cshap\week-2\ex1\bin\Debug\net7.0\ex1.dll
+C:\cshap\week-2\ex1\bin\Debug\net7.0\ex1.pdb
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.AssemblyInfoInputs.cache
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.AssemblyInfo.cs
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.csproj.CoreCompileInputs.cache
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.dll
+C:\cshap\week-2\ex1\obj\Debug\net7.0\refint\ex1.dll
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.pdb
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ex1.genruntimeconfig.cache
+C:\cshap\week-2\ex1\obj\Debug\net7.0\ref\ex1.dll
