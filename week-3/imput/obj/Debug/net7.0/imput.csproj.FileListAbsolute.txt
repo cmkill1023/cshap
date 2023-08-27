@@ -1,0 +1,14 @@
+C:\cshap\week-3\imput\bin\Debug\net7.0\imput.exe
+C:\cshap\week-3\imput\bin\Debug\net7.0\imput.deps.json
+C:\cshap\week-3\imput\bin\Debug\net7.0\imput.runtimeconfig.json
+C:\cshap\week-3\imput\bin\Debug\net7.0\imput.dll
+C:\cshap\week-3\imput\bin\Debug\net7.0\imput.pdb
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.AssemblyInfoInputs.cache
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.AssemblyInfo.cs
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.csproj.CoreCompileInputs.cache
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.dll
+C:\cshap\week-3\imput\obj\Debug\net7.0\refint\imput.dll
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.pdb
+C:\cshap\week-3\imput\obj\Debug\net7.0\imput.genruntimeconfig.cache
+C:\cshap\week-3\imput\obj\Debug\net7.0\ref\imput.dll
