@@ -1,0 +1,14 @@
+D:\เขียนcod\week-6-oop\pj-1\bin\Debug\net8.0\week-7.exe
+D:\เขียนcod\week-6-oop\pj-1\bin\Debug\net8.0\week-7.deps.json
+D:\เขียนcod\week-6-oop\pj-1\bin\Debug\net8.0\week-7.runtimeconfig.json
+D:\เขียนcod\week-6-oop\pj-1\bin\Debug\net8.0\week-7.dll
+D:\เขียนcod\week-6-oop\pj-1\bin\Debug\net8.0\week-7.pdb
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.AssemblyInfoInputs.cache
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.AssemblyInfo.cs
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.csproj.CoreCompileInputs.cache
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.dll
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\refint\week-7.dll
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.pdb
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\week-7.genruntimeconfig.cache
+D:\เขียนcod\week-6-oop\pj-1\obj\Debug\net8.0\ref\week-7.dll
