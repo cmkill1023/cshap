@@ -35,10 +35,10 @@ class Movie
         Console.WriteLine("----------1.Sapalur--------");
         Console.WriteLine("--------2.The Marvel-------");
         Console.WriteLine("----------3.TeeYod---------");
-        Console.WriteLine("---Press Q = Exit Program--");
+        Console.WriteLine("---Press q = Exit Program--");
         Console.WriteLine("---------------------------");
         Console.Write("Please Enter Your Input Selected : ");
-        string userChoice = Console.ReadLine().ToUpper(); //รับค่าตวเลือกหนัง
+        string userChoice = Console.ReadLine(); //รับค่าตวเลือกหนัง
         Console.WriteLine(" --------------------------");
         m.MChoice(userChoice);//ส่งไปcheckตัวเลือกที่รับค่า
     }
@@ -64,12 +64,12 @@ class Movie
             Console.WriteLine(" ---------------------------------- ");
             Console.WriteLine("The menu you selected was not found.");
             Console.WriteLine(" ---------------------------------- ");
-            Console.WriteLine("Press Q = Exit, H = Back To Menu");
-            string NotfoundChoice = Console.ReadLine().ToUpper();
-            if ( NotfoundChoice == "H"){
+            Console.WriteLine("Press q = Exit, h = Back To Menu");
+            string NotfoundChoice = Console.ReadLine();
+            if ( NotfoundChoice == "h"){
                 m.MMenu();
-            }else if (NotfoundChoice == "Q"){
-                m.MChoice("Q");
+            }else if (NotfoundChoice == "q"){
+                m.MChoice("q");
             }
         }
     }
@@ -94,10 +94,10 @@ class Movie
         Console.WriteLine("-----------1. 10:00 - 12:00---------");
         Console.WriteLine("-----------2. 12:00 - 14:00---------");
         Console.WriteLine("-----------3. 14:00 - 16:00---------");
-        Console.WriteLine("--Press Q = Exit, H = Back To Menu--");
+        Console.WriteLine("--Press q = Exit, h = Back To Menu--");
         Console.WriteLine(" ---------------------------------- ");
         Console.Write("Please Enter Your Input Selected : ");
-        string uRoundTimes = Console.ReadLine().ToUpper();
+        string uRoundTimes = Console.ReadLine();
         Console.WriteLine(" ---------------------------------- ");
         if (uRoundTimes == "1" || uRoundTimes == "2" || uRoundTimes == "3"){
             m.ChoiceRoundTimes(Int32.Parse(uRoundTimes), Movie_name);
