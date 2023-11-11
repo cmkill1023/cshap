@@ -1,0 +1,14 @@
+D:\เขียนcod\ggg\bin\Debug\net8.0\ggg.exe
+D:\เขียนcod\ggg\bin\Debug\net8.0\ggg.deps.json
+D:\เขียนcod\ggg\bin\Debug\net8.0\ggg.runtimeconfig.json
+D:\เขียนcod\ggg\bin\Debug\net8.0\ggg.dll
+D:\เขียนcod\ggg\bin\Debug\net8.0\ggg.pdb
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.GeneratedMSBuildEditorConfig.editorconfig
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.AssemblyInfoInputs.cache
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.AssemblyInfo.cs
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.csproj.CoreCompileInputs.cache
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.dll
+D:\เขียนcod\ggg\obj\Debug\net8.0\refint\ggg.dll
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.pdb
+D:\เขียนcod\ggg\obj\Debug\net8.0\ggg.genruntimeconfig.cache
+D:\เขียนcod\ggg\obj\Debug\net8.0\ref\ggg.dll
