@@ -103,9 +103,6 @@ class Program
 
         double change = payment - totalPrice;
         Console.WriteLine($"เงินทอน: {change} บาท");
-
-        
-
         Console.WriteLine("\nขอบคุณที่ใช้บริการ!");
     }
 }

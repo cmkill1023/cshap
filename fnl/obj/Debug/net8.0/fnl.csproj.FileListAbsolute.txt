@@ -1,0 +1,14 @@
+D:\เขียนcod\fnl\bin\Debug\net8.0\fnl.exe
+D:\เขียนcod\fnl\bin\Debug\net8.0\fnl.deps.json
+D:\เขียนcod\fnl\bin\Debug\net8.0\fnl.runtimeconfig.json
+D:\เขียนcod\fnl\bin\Debug\net8.0\fnl.dll
+D:\เขียนcod\fnl\bin\Debug\net8.0\fnl.pdb
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.GeneratedMSBuildEditorConfig.editorconfig
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.AssemblyInfoInputs.cache
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.AssemblyInfo.cs
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.csproj.CoreCompileInputs.cache
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.dll
+D:\เขียนcod\fnl\obj\Debug\net8.0\refint\fnl.dll
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.pdb
+D:\เขียนcod\fnl\obj\Debug\net8.0\fnl.genruntimeconfig.cache
+D:\เขียนcod\fnl\obj\Debug\net8.0\ref\fnl.dll
